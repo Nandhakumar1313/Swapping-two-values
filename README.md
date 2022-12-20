@@ -49,6 +49,7 @@ print("Swapped values are:", temp, n2)
 
 
 ## OUTPUT:
+
 ![](./swaping.png)
 
 
